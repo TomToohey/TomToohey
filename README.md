@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TomToohey
 - 👀 I’m interested in smart Office Applications
-- 🌱 I’m currently learning python and vVBA extensions
+- 🌱 I’m currently learning python and VBA extensions
 - 💞️ I’m looking to collaborate on learning
 - 📫 How to reach me tom.toohey@ymail.com
 
